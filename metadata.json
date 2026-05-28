@@ -1,0 +1,6 @@
+{
+  "name": "দোকান খাতা",
+  "description": "পণ্য তালিকা, বিক্রয় হিসাব (POS), স্টক আপডেট ও খরচ ব্যবস্থাপনার জন্য একটি সম্পূর্ণ সমাধান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
